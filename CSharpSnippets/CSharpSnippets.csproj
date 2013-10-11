@@ -51,6 +51,7 @@
     <Compile Include="Configuration\IDynamicConfiguration.cs" />
     <Compile Include="Configuration\ExampleConfigurationManagerWrapper.cs" />
     <Compile Include="Configuration\ExampleConfigurationManager.cs" />
+    <Compile Include="Singleton.cs" />
     <Compile Include="StringUtility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\GenericRepository.cs" />
